@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.bgscreen{
+  background-color: #222222;
+}
+
+.bgparagraph{
+  background-color: #303030;
+}
